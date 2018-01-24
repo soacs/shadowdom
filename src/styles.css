@@ -1,1 +1,25 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  padding-top: 20px;
+  background-color: red;
+}
+
+h1 {
+  color: black;
+  background-color: orange;
+  font: 700 24px Open Arial;
+  top: 0px;
+  margin: 0px;
+  padding: 0px;
+  height:25px;
+}
+
+div {
+  background-color: green;
+  color: black;
+  font: 700 18px Open Arial;
+  top: 0px;
+  margin: 0px;
+  padding: 5px;
+  border-bottom: 2px solid rgb(136, 136, 136);
+  height:75px;
+}

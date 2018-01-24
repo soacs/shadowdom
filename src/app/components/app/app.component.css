@@ -1,0 +1,18 @@
+h1 {
+  color: white;
+  font: 700 24px Open Arial;
+  top: 0px;
+  margin: 0px;
+  padding: 5px;
+  height:50px;
+  background: lightgray ;
+}
+
+div {
+  background: mediumpurple;
+  height:200px;
+}
+
+p {
+  color: pink;
+}
